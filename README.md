@@ -5,7 +5,9 @@ Script with a GUI simplifying the process of individual receipt production after
 
 Utility_bill_calculator.exe has been compiled using Pyinstaller. 
 
-- to-do list: 
-  - individual receipt generation feature
-  - better constrasting color theme
-  - add language selection option with English
+- To-do list: 
+  - feature: improve modularity with the ability to edit the number of buildings in the residence;
+  - feature: add a dropdown menu for language selection with english support;
+  - feature: individual .docx or .pdf receipt generation
+  - refactor: improve code design to make the end app faster
+  - chore: improve the GUI using more contrasting colors. 
